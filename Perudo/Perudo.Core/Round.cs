@@ -21,6 +21,7 @@ namespace Perudo.Core
         Step CurrentStep { get; set; } // Текущий ход
         bool WinRound   { get; set; } = false; // Есть победитель раунда или нет
         List<int> playersId = new List<int>(); // Id игроков, которые учавствуют в раунде
+        public int TotalDicesInRound { get; set; } // Суммарное кол.во кубиков в этом раунде
 
         private void GetPlayersId()
         {
@@ -29,6 +30,18 @@ namespace Perudo.Core
                 playersId.Add(player.PlayerId);
             }
         }
+
+
+        private void SetTotalDicesInRound()
+        {
+            foreach (PlayerBase player in Players)
+            {
+                TotalDicesInRound += player.Dices.Count;
+            }
+        }
+
+
+
 
         public void SimulateRound()
         {

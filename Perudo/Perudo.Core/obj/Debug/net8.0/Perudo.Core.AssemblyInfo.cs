@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Perudo.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb90ec08cad7bc79f992feeb2f5d9f7568d12709")]
 [assembly: System.Reflection.AssemblyProductAttribute("Perudo.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Perudo.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
