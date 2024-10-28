@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Perudo/1.0.0": {
+        "dependencies": {
+          "Perudo.Core": "1.0.0"
+        },
+        "runtime": {
+          "Perudo.dll": {}
+        }
+      },
+      "Perudo.Core/1.0.0": {
+        "runtime": {
+          "Perudo.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perudo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Perudo.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

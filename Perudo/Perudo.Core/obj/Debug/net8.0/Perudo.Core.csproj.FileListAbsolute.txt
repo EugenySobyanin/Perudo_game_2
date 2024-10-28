@@ -1,0 +1,11 @@
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\bin\Debug\net8.0\Perudo.Core.deps.json
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\bin\Debug\net8.0\Perudo.Core.dll
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\bin\Debug\net8.0\Perudo.Core.pdb
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\obj\Debug\net8.0\Perudo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\obj\Debug\net8.0\Perudo.Core.AssemblyInfoInputs.cache
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\obj\Debug\net8.0\Perudo.Core.AssemblyInfo.cs
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\obj\Debug\net8.0\Perudo.Core.csproj.CoreCompileInputs.cache
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\obj\Debug\net8.0\Perudo.Core.dll
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\obj\Debug\net8.0\refint\Perudo.Core.dll
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\obj\Debug\net8.0\Perudo.Core.pdb
+D:\Dev\1. C#\6. Perudo_game\Perudo\Perudo.Core\obj\Debug\net8.0\ref\Perudo.Core.dll
