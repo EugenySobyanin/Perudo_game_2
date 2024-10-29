@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\",
+  "WorkspaceRootPath": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev_c#\\4. perudo game\\perudo_game_2\\perudo\\perudo.core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev\\1. c#\\6. perudo_game\\perudo_game_2\\perudo\\perudo.core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|solutionrelative:perudo.core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev_c#\\4. perudo game\\perudo_game_2\\perudo\\perudo.core\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev\\1. c#\\6. perudo_game\\perudo_game_2\\perudo\\perudo.core\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|solutionrelative:perudo.core\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev_c#\\4. perudo game\\perudo_game_2\\perudo\\perudo.core\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev\\1. c#\\6. perudo_game\\perudo_game_2\\perudo\\perudo.core\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|solutionrelative:perudo.core\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev_c#\\4. perudo game\\perudo_game_2\\perudo\\perudo.core\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev\\1. c#\\6. perudo_game\\perudo_game_2\\perudo\\perudo.core\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|solutionrelative:perudo.core\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev_c#\\4. perudo game\\perudo_game_2\\perudo\\perudo.core\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|d:\\dev\\1. c#\\6. perudo_game\\perudo_game_2\\perudo\\perudo.core\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F79E60-0E19-4123-B524-0B31D8D7A7E3}|Perudo.Core\\Perudo.Core.csproj|solutionrelative:perudo.core\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36D99B68-FB74-4C29-8F5B-B298BB40406C}|Perudo\\Perudo.csproj|d:\\dev_c#\\4. perudo game\\perudo_game_2\\perudo\\perudo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36D99B68-FB74-4C29-8F5B-B298BB40406C}|Perudo\\Perudo.csproj|d:\\dev\\1. c#\\6. perudo_game\\perudo_game_2\\perudo\\perudo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36D99B68-FB74-4C29-8F5B-B298BB40406C}|Perudo\\Perudo.csproj|solutionrelative:perudo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,30 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Utils.cs",
-              "DocumentMoniker": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Utils.cs",
+              "DocumentMoniker": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Utils.cs",
               "RelativeDocumentMoniker": "Perudo.Core\\Utils.cs",
-              "ToolTip": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Utils.cs",
+              "ToolTip": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Utils.cs",
               "RelativeToolTip": "Perudo.Core\\Utils.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:16:39.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T08:16:39.725Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Round.cs",
-              "DocumentMoniker": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Round.cs",
+              "DocumentMoniker": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Round.cs",
               "RelativeDocumentMoniker": "Perudo.Core\\Round.cs",
-              "ToolTip": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Round.cs",
+              "ToolTip": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Round.cs",
               "RelativeToolTip": "Perudo.Core\\Round.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCYAAAA4AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T17:51:57.737Z",
               "EditorCaption": ""
@@ -66,24 +73,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Step.cs",
-              "DocumentMoniker": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Step.cs",
+              "DocumentMoniker": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Step.cs",
               "RelativeDocumentMoniker": "Perudo.Core\\Step.cs",
-              "ToolTip": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Step.cs",
+              "ToolTip": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Step.cs",
               "RelativeToolTip": "Perudo.Core\\Step.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:37:38.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T17:37:38.978Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Player.cs",
-              "DocumentMoniker": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Player.cs",
+              "DocumentMoniker": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Player.cs",
               "RelativeDocumentMoniker": "Perudo.Core\\Player.cs",
-              "ToolTip": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Player.cs",
+              "ToolTip": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Player.cs",
               "RelativeToolTip": "Perudo.Core\\Player.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAYwEEAAABaAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwE4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T17:34:15.387Z",
               "EditorCaption": ""
@@ -92,9 +98,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Dice.cs",
-              "DocumentMoniker": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Dice.cs",
+              "DocumentMoniker": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Dice.cs",
               "RelativeDocumentMoniker": "Perudo.Core\\Dice.cs",
-              "ToolTip": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Dice.cs",
+              "ToolTip": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Dice.cs",
               "RelativeToolTip": "Perudo.Core\\Dice.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo\\Program.cs",
+              "DocumentMoniker": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo\\Program.cs",
               "RelativeDocumentMoniker": "Perudo\\Program.cs",
-              "ToolTip": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo\\Program.cs",
+              "ToolTip": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo\\Program.cs",
               "RelativeToolTip": "Perudo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

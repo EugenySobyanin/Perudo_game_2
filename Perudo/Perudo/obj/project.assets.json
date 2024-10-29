@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc1013400360\\.nuget\\packages\\": {}
+    "C:\\Users\\easob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo\\Perudo.csproj",
+      "projectUniqueName": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo\\Perudo.csproj",
       "projectName": "Perudo",
-      "projectPath": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo\\Perudo.csproj",
-      "packagesPath": "C:\\Users\\pc1013400360\\.nuget\\packages\\",
-      "outputPath": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo\\obj\\",
+      "projectPath": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo\\Perudo.csproj",
+      "packagesPath": "C:\\Users\\easob\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc1013400360\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\easob\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Perudo.Core.csproj": {
-              "projectPath": "D:\\DEV_C#\\4. Perudo Game\\Perudo_game_2\\Perudo\\Perudo.Core\\Perudo.Core.csproj"
+            "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Perudo.Core.csproj": {
+              "projectPath": "D:\\Dev\\1. C#\\6. Perudo_game\\Perudo_game_2\\Perudo\\Perudo.Core\\Perudo.Core.csproj"
             }
           }
         }
@@ -90,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

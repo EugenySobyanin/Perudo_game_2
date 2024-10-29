@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace Perudo.Core
 {
@@ -18,6 +19,8 @@ namespace Perudo.Core
             this.TakeDices();
         }
 
+
+        // Набрать кубики в начале игры
         private void TakeDices()
         {
             for (int i = 0; i < 5; i++)
@@ -25,6 +28,7 @@ namespace Perudo.Core
                 Dices.Add(new Dice());
             }
         }
+
 
         // Перемешать кубики игрока
         public void ShakeDices()
@@ -35,6 +39,7 @@ namespace Perudo.Core
             }
         }
 
+
         // Получить значение своих кубиков в определенном раунде
         public void GetDicesValues()
         {
@@ -44,6 +49,7 @@ namespace Perudo.Core
             }
         }
 
+
         // Метод для получения следующего хода
         public virtual Step MakeStep(Step lastStep)
         {
@@ -51,13 +57,15 @@ namespace Perudo.Core
             throw new NotImplementedException("Метод GetStep не реализован.");
         }
 
+
         // Метод для первого хода
-        public virtual Step FirstStep()
+        public virtual Step FirstStep(int sum_dices, int players_count)
         {
             throw new NotImplementedException("Метод FirstStep не реализован");
         }
 
         // Здесь должны быть описаны классы наследники для разных типов игроков
+
 
         /*Игрок - новичок, аккуратно повышает, не блефует, проверяет большие значения
          Это самая простая стратегия*/
@@ -65,15 +73,11 @@ namespace Perudo.Core
         {
             public override Step MakeStep(Step last_step, int sum_dices, int players_count)
             {
+                Random random = new Random();
                 if (last_step == null)
                 {
-
+                    
                 }
-            }
-
-            public override Step FirstStep() 
-            {
-
             }
         }
     }

@@ -14,6 +14,10 @@ namespace Perudo.Core
             Players = players;
             RoundNumber += 1;
             this.GetPlayersId();
+            foreach (PlayerBase player in Players) 
+            {
+                player.GetDicesValues();
+            }
         }
 
         public List<PlayerBase> Players { get; set; } // Список игроков
@@ -39,8 +43,6 @@ namespace Perudo.Core
                 TotalDicesInRound += player.Dices.Count;
             }
         }
-
-
 
 
         public void SimulateRound()
